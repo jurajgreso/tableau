@@ -1,6 +1,8 @@
 # Tableau
 Tableau workbooks, datasets and documentation.
 
+I have learned the best practices in data engineering and analytics from Baraa Khatib Salkini, the Lead Data Engineering, Analytics & AI @Mercedes-Benz AG and YouTube Educator ["DataWithBaraa"](https://www.youtube.com/@datawithbaraa).
+
 ---
 
 ## 🛡️ License
