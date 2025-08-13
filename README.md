@@ -5,6 +5,10 @@ I have learned the best practices in data engineering and analytics from Baraa K
 
 ---
 
+<img width="1199" height="799" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/83c9bec1-9247-4f89-8e8a-1bd60a59de19" />
+
+---
+
 ## 🛡️ License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
